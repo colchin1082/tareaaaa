@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+
+</head>
+<body>
+<header>
+    <center>
+        <img src="aretes.jpg" width="300" height="180"
+    </center>
+    <div class="barras">
+        <button onclick="abrir_cerrar_menu()"
+        class="bonton_menu" id="x"></button>
+    </div>
+    <nav id"menu" class="desplegable">
+        <ul>
+            <li><a href="ace.html">inicio</a></a></li>
+            <li><a href="galeria.html">galeria</a></li>
+            <li><a href="proyecto.html">proyecto</a></li>
+            <li><a href="contac.html">contactanos</a></li>
+        </ul>
+    </nav>
+    <script src="main.js"></script>
+</header>    
+</body>
+</html>
