@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <i><center>INFORMACION CLAVE SOBRE POLLO CAMPERO: </center></i>
+    <i><center> Pollo Campero es una cadena de restaurantes conocida por su pollo frito,
+         especialmente popular en Centroamérica. Su historia se remonta a Guatemala en 1971, 
+         donde Don Juan Bautista Gutiérrez y su hijo Dionisio crearon un nuevo concepto de sabor: un pollo tierno, 
+         jugoso y crujiente. Pollo Campero se ha expandido a varios países, incluyendo El Salvador,
+        Estados Unidos, España y China. </center></i>
+    <img src="img/loncheritacamp.jpg"
+    
+</body>
+</html>
